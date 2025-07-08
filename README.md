@@ -14,7 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Vulnerability assessment                      | Vulnerability Scanning & Exploitation using Nmap and Metasploit|
 | Linux Command-line                            | Vulnerability Scanning & Exploitation using Nmap and Metasploit|
-
+| SIEM & Logging                                | SIEM Based Attack Detection & Log Analysis                     |
+|Log Correlation & analysis                     | SIEM Based Attack Detection & Log Analysis                     |
+|Incident Response & Alerting                   | SIEM Based Attack Detection & Log Analysis                     |
+ 
 ## Tools
 ### Network
 <div>
